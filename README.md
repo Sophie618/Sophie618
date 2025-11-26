@@ -228,9 +228,9 @@ Comprehensive numerical analysis tool
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/echarts-1.svg" width="65" height="65" alt="ECharts" />
-      <br>ECharts
-    </td>
+  <img src="https://www.cursor.com/brand/icon.svg" width="65" height="65" alt="Cursor" />
+  <br>Cursor
+</td>
   </tr>
 </table>
 </div>
