@@ -176,8 +176,6 @@ Comprehensive numerical analysis tool
   
 ### ✨ *"Wonderful things are happening."* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sophie618&color=9400D4&style=flat-square)
-
 </div>
 
 ---
@@ -224,45 +222,3 @@ I believe that **beautiful UI + smooth UX = wonderful experience**. Every pixel 
 </details>
 
 ---
-
-<div align="center">
-
-### 🔧 Setup Instructions for Snake Animation
-
-To enable the snake animation, create `.github/workflows/snake.yml` in your repository:
-
-</div>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Sophie618
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<div align="center">
-
-**Then go to Actions tab → Generate Snake → Run workflow** 🚀
-
-</div>
