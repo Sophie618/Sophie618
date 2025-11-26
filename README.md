@@ -228,7 +228,7 @@ Comprehensive numerical analysis tool
       <br>VS Code
     </td>
     <td align="center" width="96">
-  <img src="https://www.cursor.com/brand/icon.svg" width="65" height="65" alt="Cursor" />
+  <img src="https://cursor.sh/brand/icon.svg" width="65" height="65" alt="Cursor" />
   <br>Cursor
 </td>
   </tr>
