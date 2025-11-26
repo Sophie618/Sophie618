@@ -132,12 +132,16 @@ Comprehensive numerical analysis tool
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -148,16 +152,12 @@ Comprehensive numerical analysis tool
       <br>TypeScript
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
       <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
-      <br>Sass
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -170,6 +170,22 @@ Comprehensive numerical analysis tool
       <br>CSS3
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
       <br>Figma
     </td>
@@ -180,6 +196,20 @@ Comprehensive numerical analysis tool
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=threejs" width="65" height="65" alt="Three.js" />
       <br>Three.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="65" height="65" alt="Chart.js" />
+      <br>Chart.js
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
@@ -197,44 +227,13 @@ Comprehensive numerical analysis tool
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
       <br>VS Code
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="65" height="65" alt="Adobe XD" />
-      <br>Adobe XD
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.chartjs.org/media/logo-title.svg" width="65" height="65" alt="Chart.js" />
-      <br>Chart.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="65" height="65" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65" height="65" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
+      <img src="https://cdn.worldvectorlogo.com/logos/echarts-1.svg" width="65" height="65" alt="ECharts" />
+      <br>ECharts
     </td>
   </tr>
 </table>
 </div>
-
 ---
 
 ## 🌐 Connect With Me
