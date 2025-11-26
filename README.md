@@ -1,88 +1,191 @@
-## Hi there 👋,I'm Sophie,a sophomore majoring in Computer Science from Beijing Institute of Technology.
+<div align="center">
+  
+# Hi there 👋, I'm Sophie
 
-I like to use the **React**, **Vite**, and **TailwindCSS** technology stack for front-end development. Currently, I am exploring the fields of **large models** and **Agent**, and am committed to making some interesting attempts in these areas. Perhaps crazy ideas are what make people more excited, aren't they?
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D4&center=true&vCenter=true&width=800&lines=A+Sophomore+majoring+in+Computer+Science;Exploring+Large+Models+%26+Agent+Technology;Building+with+React+%2B+Vite+%2B+TailwindCSS;Passionate+about+UI%2FUX+Design+%26+Visualization;Welcome+to+my+Wondrous+World!+%E2%9C%A8" alt="Typing SVG" /></a>
 
-## 🌱成长与背景
-- 📍 **北京理工大学** 大二计算机科学专业学生
-- 💻 **前端技术栈**：React + Vite + TailwindCSS
-- 🤖 **探索领域**：大模型、Agent
-- 🎨 **喜欢的颜色**：霓虹紫（#9400D4）
-
-## 👯项目与合作
-- [**Algorithm Practicing Land**](https://github.com/Sophie618/Algorithm_practicing_land): 用来练习算法的小仓库，欢迎讨论与交流！
-- [**Numerical Analysis Platform**](https://github.com/Sophie618/numerical-analysis-platform): 数值分析与可视化功能的工具平台。
-
-## 💬我正在做的事情
-- 🔨 在学习 **大模型** 和 **Agent** 相关的技术，探索这些技术如何能够应用到实际项目中。
-- 🎯 通过开发个人项目不断提升自己对前端技术的掌握与运用，期待和志同道合的朋友一起合作。
-
-## 联系我
-- 📧 电子邮箱：[3441606266@qq.com](mailto:3441606266@qq.com)
-- 🌐 个人网站：[Sophie’s Wondrous World](http://www.sophieswondrousworld.top/)
+</div>
 
 ---
 
-> "Wonderful things are happening." ✨
+## 🎯 About Me
 
+> *"Perhaps crazy ideas are what make people more excited, aren't they?"*
 
+🎓 **Sophomore** at **Beijing Institute of Technology**, majoring in **Computer Science**
 
+💜 **Favorite Color**: Neon Purple (#9400D4)
 
+🚀 **Current Focus**: Large Language Models & Intelligent Agents
 
-<!--
-**Sophie618/Sophie618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Frontend Development
+```javascript
+const sophie = {
+  frameworks: ["React", "Vite"],
+  styling: ["TailwindCSS", "Sass/SCSS"],
+  traditional: ["HTML5", "CSS3", "JavaScript"],
+  design: ["Figma", "UI/UX Design"]
+};
+```
 
-### 打字机效果
-<div style="font-family: monospace; font-size: 24px; display: inline-block; border-right: 0.1em solid #000; white-space: nowrap; overflow: hidden; animation: typing 4s steps(30) 1s 1 normal both, blinkCaret 0.75s step-end infinite;">
-  Hello, I'm Sophie😄, and I'm exploring the fields of large models and Agents! Welcome to exchange ideas and collaborate with each other!
+### Visualization & Animation
+- 📊 **Data Viz**: D3.js, ECharts, Three.js
+- 🎨 **Interactive Design**: Web game logic, delicate animations
+- 📈 **Graph Types**: Force-directed graphs, Tree diagrams, Sankey diagrams
+
+### Backend & Data
+- 🐍 **Python**: Web scraping, data cleaning & structuring
+- 🤖 **LLM Integration**: Semantic search, fuzzy search, information extraction
+- 🔍 **Search Systems**: Precise retrieval, semantic matching
+
+---
+
+## 🌱 Growing Journey
+
+```
+📍 Location       → Beijing Institute of Technology
+💼 Status         → Computer Science Sophomore
+🎯 Learning       → Large Models, Agent Technology
+🛠️ Building with  → React + Vite + TailwindCSS
+🎨 Designing with → Figma, UI/UX principles
+📊 Visualizing    → D3.js, ECharts, Three.js
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧮 [Algorithm Practicing Land](https://github.com/Sophie618/Algorithm_practicing_land)
+A cozy repository for algorithm practice
+- 💡 Problem solving & discussions
+- 📚 Learning notes
+- 🤝 Welcome to exchange ideas!
+
+</td>
+<td width="50%">
+
+### 📐 [Numerical Analysis Platform](https://github.com/Sophie618/numerical-analysis-platform)
+Comprehensive numerical analysis tool
+- 🔢 Numerical computation
+- 📊 Data visualization
+- 🎯 Interactive features
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 💬 What I'm Currently Doing
+
+```python
+class Sophie:
+    def __init__(self):
+        self.current_focus = [
+            "🔨 Learning LLM & Agent architectures",
+            "🎯 Building frontend projects with modern stack",
+            "🤝 Seeking collaboration with like-minded developers",
+            "🎨 Exploring UI/UX design principles",
+            "📊 Creating interactive data visualizations"
+        ]
+    
+    def collaborate(self):
+        return "Always open to interesting projects and ideas! 💡"
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophie618&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9400D4&icon_color=9400D4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophie618&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9400D4)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sophie618&theme=radical&hide_border=true&background=0D1117&ring=9400D4&fire=9400D4&currStreakLabel=9400D4)
+
 </div>
 
-<style>
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
+---
 
-  @keyframes blinkCaret {
-    50% {
-      border-color: transparent;
-    }
-  }
-</style>
+## 🛠️ Languages and Tools
 
-### GitHub Logo 弹跳效果
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-     alt="GitHub Logo" 
-     style="width: 50px; height: 50px; animation: bounce 1s infinite;">
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-3441606266%40qq.com-9400D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3441606266@qq.com)
+[![Website](https://img.shields.io/badge/Website-Sophie's_Wondrous_World-9400D4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.sophieswondrousworld.top/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sophie618-9400D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sophie618)
+
+</div>
+
+---
+
+<div align="center">
   
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-10px);
-    }
-    60% {
-      transform: translateY(-5px);
-    }
-  }
-</style>
+### ✨ *"Wonderful things are happening."* ✨
 
-### 贪吃蛇游戏
-<iframe src="https://codepen.io/your-pen-id" width="100%" height="500px"></iframe>
--->
+![Profile Views](https://komarev.com/ghpvc/?username=Sophie618&color=9400D4&style=for-the-badge)
+
+</div>
+
+---
+
+<details>
+<summary>💡 <b>Click to see more about me!</b></summary>
+
+<br>
+
+### 🎨 Design Philosophy
+I believe that **beautiful UI + smooth UX = wonderful experience**. Every pixel matters, every animation tells a story.
+
+### 🚀 Learning Journey
+- Started with traditional web development
+- Fell in love with React's component-based architecture
+- Discovered the power of TailwindCSS for rapid styling
+- Now exploring how AI can revolutionize user interactions
+
+### 💭 Fun Facts
+- 💜 I see the world in shades of neon purple
+- 🎮 I build web games in my free time
+- 📊 I turn boring data into beautiful visualizations
+- 🤖 I dream of building intelligent agents that actually understand users
+
+</details>
