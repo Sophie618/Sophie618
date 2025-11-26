@@ -92,6 +92,7 @@ Comprehensive numerical analysis tool
 </table>
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats-tau-coral.vercel.app?user=Sophie618&theme=midnight-purple&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## 🐍 GitHub Contribution Snake
 
