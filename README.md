@@ -247,7 +247,7 @@ Comprehensive numerical analysis tool
 
 </div>
 
----
+
 
 <div align="center">
   
@@ -255,7 +255,7 @@ Comprehensive numerical analysis tool
 
 </div>
 
----
+
 
 <details>
 <summary>💡 <b>Click to see more about me!</b></summary>
