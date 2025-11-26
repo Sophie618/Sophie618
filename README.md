@@ -122,19 +122,7 @@ Comprehensive numerical analysis tool
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sophie618&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9400D4&icon_color=9400D4&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophie618&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9400D4&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sophie618&theme=radical&hide_border=true&background=0D1117&ring=9400D4&fire=9400D4&currStreakLabel=9400D4)
-
-</div>
+[![Sophie's GitHub stats](https://github-readme-stats-r82b.vercel.app/api?username=Sophie618)](https://github.com/Sophie618/github-readme-stats)
 
 ---
 
