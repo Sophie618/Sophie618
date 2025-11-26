@@ -228,13 +228,14 @@ Comprehensive numerical analysis tool
       <br>VS Code
     </td>
     <td align="center" width="96">
-  <img src="https://avatars.githubusercontent.com/u/135879745?s=200&v=4" width="65" height="65" alt="Cursor" />
+  <img src="https://github.com/user-attachments/assets/4cb191a8-e0d8-4a32-9032-37e80f19fb7a" width="65" height="65" alt="Cursor" />
   <br>Cursor
 </td>
   </tr>
 </table>
 </div>
 ---
+
 
 ## 🌐 Connect With Me
 
