@@ -122,7 +122,7 @@ Comprehensive numerical analysis tool
 
 ## 📊 GitHub Stats
 
-[![Sophie's GitHub stats](https://github-readme-stats-r82b.vercel.app/api?username=Sophie618)](https://github.com/Sophie618/github-readme-stats)
+[![Sophie's GitHub stats](https://github-readme-stats-r82b.vercel.app/api?username=Sophie618&show_icons=true&theme=tokyonight)](https://github.com/Sophie618/github-readme-stats)
 
 ---
 
