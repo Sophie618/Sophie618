@@ -101,8 +101,6 @@ Comprehensive numerical analysis tool
 
 </div>
 
-> 💡 **Note**: The snake animation is generated daily by GitHub Actions. If you don't see it yet, please follow the setup instructions below.
-
 ---
 
 ## 💬 What I'm Currently Doing
