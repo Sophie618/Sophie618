@@ -74,27 +74,128 @@
 
 ---
 
-## ⚡ Tech Stack & Arsenal
+## 🛠️ My Favorite Tools and Technologies
 
-### 🧠 AI & LLM Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI/DeepSeek](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Vector_Search-orange?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Protocol-blue?style=flat-square)
+<div align="center">
 
-### 🎨 Modern Frontend (Generative UI)
-![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+<!-- 第一行：AI Engineering, LLM & Data Backend -->
 
-### 📊 Data Visualization & Core
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+
+<!-- 第二行：Generative UI, Modern Frontend & Visualization -->
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=motion" width="65" height="65" alt="Framer Motion" />
+      <br>Motion
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=d3" width="65" height="65" alt="D3.js" />
+      <br>D3.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="65" height="65" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+<!-- 第三行：DevOps, Tools & Environment -->
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/user-attachments/assets/4cb191a8-e0d8-4a32-9032-37e80f19fb7a" width="65" height="65" alt="Cursor" />
+      <br>Cursor
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
