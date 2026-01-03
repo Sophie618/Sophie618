@@ -138,8 +138,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=motion" width="65" height="65" alt="Framer Motion" />
-      <br>Motion
+      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=d3" width="65" height="65" alt="D3.js" />
