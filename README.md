@@ -18,7 +18,7 @@
 
 ---
 
-## 💎 Featured Projects (The "Big Three")
+## 💎 Featured Projects 
 
 <table border="0">
   <tr>
