@@ -2,7 +2,7 @@
   
 # Hi there, I'm Sophie 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D4&center=true&vCenter=true&width=800&lines=AI+Product+Engineer+%26+Full+Stack+Developer;Architecting+Multi-Agent+Systems+(MCP+%2B+RAG);Crafting+Generative+UI+with+Next.js+16+%2B+React+19;iGEM+2024+Global+Gold+%26+Best+Software+Award;Turning+Silicon-Based+Intelligence+into+Human+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D4&center=true&vCenter=true&width=800&lines=AI+Product+Engineer+%26+Full+Stack+Developer;Architecting+Multi-Agent+Systems+(MCP+%2B+RAG);Crafting+Generative+UI+with+Next.js+16+%2B+React+19;Turning+Silicon-Based+Intelligence+into+Human+Experience)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,8 @@
         <code>Framer Motion</code>
       </p>
       <div align="center">
-        <a href="https://github.com/Sophie618">View Project ➜</a>
+        <!-- 移除公开链接，联系 -->
+        <i>Private Repository. Details available upon request.</i>
       </div>
     </td>
     <td width="33%" valign="top">
@@ -58,7 +59,14 @@
         <code>Interactive Graph</code>
       </p>
       <div align="center">
-        <a href="http://8.217.245.150">Live Demo ➜</a>
+        <!-- 主链接改为 Wiki，下方标注服务器状态 -->
+        <a href="https://2025.igem.wiki/bit-china/">View iGEM Wiki ➜</a>
+        <br>
+        <br>
+        <sub style="font-size: 11px; color: #888;">
+          Software Demo Server under maintenance.<br>
+          <a href="mailto:3441606266@qq.com">Contact me</a> for details.
+        </sub>
       </div>
     </td>
   </tr>
