@@ -216,7 +216,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![alt text](https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
