@@ -1,301 +1,128 @@
 <div align="center">
   
-# Hi there 👋, I'm Sophie
+# Hi there, I'm Sophie 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D4&center=true&vCenter=true&width=800&lines=A+Sophomore+majoring+in+Computer+Science;Exploring+Large+Models+%26+Agent+Technology;Building+with+React+%2B+Vite+%2B+TailwindCSS;Passionate+about+UI%2FUX+Design+%26+Visualization;Welcome+to+my+Wondrous+World!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9400D4&center=true&vCenter=true&width=800&lines=AI+Product+Engineer+%26+Full+Stack+Developer;Architecting+Multi-Agent+Systems+(MCP+%2B+RAG);Crafting+Generative+UI+with+Next.js+16+%2B+React+19;iGEM+2024+Global+Gold+%26+Best+Software+Award;Turning+Silicon-Based+Intelligence+into+Human+Experience)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-> *"Perhaps crazy ideas are what make people more excited, aren't they?"*
+> *"I don't just write code; I build 'Second Brains' with better interfaces."*
 
-🎓 **Sophomore** at **Beijing Institute of Technology**, majoring in **Computer Science**
-
-💜 **Favorite Color**: Neon Purple (#9400D4)
-
-🚀 **Current Focus**: Large Language Models & Intelligent Agents
+👩‍💻 **AI Product Engineer** based in Beijing. Top 5% at BIT (Xu Teli Honors Class).
+💜 **Design Philosophy**: Bridging the gap between **LLM Intelligence** and **Fluid UX**.
+🌌 **Obsession**: Exploring how **DeepSeek/OpenAI** models can drive dynamic, structured frontend interactions.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💎 Featured Projects (The "Big Three")
 
-### 🎨 Frontend Development
-
-**Modern Stack**
-- ⚛️ React + Vite - Component-based architecture
-- 🎨 TailwindCSS + Sass/SCSS - Modern styling solutions
-- 🎭 Figma - UI/UX Design and prototyping
-
-**Traditional Web**
-- 📄 HTML5 + CSS3 + JavaScript
-- 🎮 Web game logic and interactive mechanisms
-- ✨ Delicate animations and micro-interactions
-
-### 📊 Visualization & Data
-
-**Libraries & Tools**
-- 📈 D3.js - Dynamic data visualization
-- 📊 ECharts - Professional charts
-- 🎲 Three.js - 3D graphics and animations
-
-**Visualization Types**
-- 🌐 Force-directed relationship graphs
-- 🌳 Tree diagrams
-- 📊 Sankey diagrams
-- 💫 Custom interactive visualizations
-
-### 🔧 Backend & Data Processing
-
-**Data Pipeline**
-- 🐍 Python web scraping
-- 🧹 Data cleaning & structuring
-- 🤖 LLM integration for analysis
-
-**Search Systems**
-- 🔍 Precise retrieval
-- 🧠 Semantic search
-- 🔎 Fuzzy expansion search
-- 📝 Information extraction
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧮 [Algorithm Practicing Land](https://github.com/Sophie618/Algorithm_practicing_land)
-
-A cozy repository for algorithm practice
-
-- 💡 Problem solving & discussions
-- 📚 Learning notes
-- 🤝 Welcome to exchange ideas!
-
-</td>
-<td width="50%">
-
-### 📐 [Numerical Analysis Platform](https://github.com/Sophie618/numerical-analysis-platform)
-
-Comprehensive numerical analysis tool
-
-- 🔢 Numerical computation
-- 📊 Data visualization
-- 🎯 Interactive features
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧩 FitSnap</h3>
+      <p align="center"><b>AI-Driven Interactive Learning Engine</b></p>
+      <p>A transformative video player that uses <b>DeepSeek-V3</b> to deconstruct stream media into structured, interactive steps in real-time.</p>
+      <p>
+        <code>Next.js 16</code> <code>React 19</code><br>
+        <code>Generative UI</code> <code>JSON Mode</code><br>
+        <code>Framer Motion</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Sophie618">View Project ➜</a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Multi-Agent Assistant</h3>
+      <p align="center"><b>Shopping Copilot via MCP Protocol</b></p>
+      <p>An intelligent agent system implementing the <b>Model Context Protocol (MCP)</b>. Features a Planner-Worker architecture for complex task decomposition.</p>
+      <p>
+        <code>Python</code> <code>LangChain</code><br>
+        <code>MCP Protocol</code> <code>RAG</code><br>
+        <code>Vue3</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/Sophie618/Multi-Agent">View Project ➜</a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧬 BiGEM Platform</h3>
+      <p align="center"><b>Global Best Software Award Winner</b></p>
+      <p>A massive data visualization platform analyzing 20 years of biological data. Handled high-concurrency scraping and complex relationship graphing.</p>
+      <p>
+        <code>D3.js</code> <code>Three.js</code><br>
+        <code>Data Pipeline</code> <code>NLP</code><br>
+        <code>Interactive Graph</code>
+      </p>
+      <div align="center">
+        <a href="http://8.217.245.150">Live Demo ➜</a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
+
+## ⚡ Tech Stack & Arsenal
+
+### 🧠 AI & LLM Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI/DeepSeek](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector_Search-orange?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Protocol-blue?style=flat-square)
+
+### 🎨 Modern Frontend (Generative UI)
+![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### 📊 Data Visualization & Core
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats-tau-coral.vercel.app?user=Sophie618&theme=midnight-purple&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
-## 🐍 GitHub Contribution Snake
+<br>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg)
+[![Sophie's GitHub stats](https://github-readme-stats-r82b.vercel.app/api?username=Sophie618&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Sophie618/github-readme-stats)
 
 </div>
 
 ---
 
-## 💬 What I'm Currently Doing
-
-🔨 **Learning** LLM & Agent architectures and their practical applications
-
-🎯 **Building** frontend projects with modern React ecosystem
-
-🤝 **Seeking** collaboration with like-minded developers
-
-🎨 **Exploring** UI/UX design principles and user experience optimization
-
-📊 **Creating** interactive data visualizations with D3.js and ECharts
-
-💡 **Always open** to interesting projects and innovative ideas!
-
----
-
-## 📊 GitHub Stats
-
-[![Sophie's GitHub stats](https://github-readme-stats-r82b.vercel.app/api?username=Sophie618&show_icons=true&theme=tokyonight)](https://github.com/Sophie618/github-readme-stats)
-
----
-
-## 🛠️ My Favorite Tools and Technologies
+## 🐍 Contribution Graph
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=d3" width="65" height="65" alt="D3.js" />
-      <br>D3.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="65" height="65" alt="Three.js" />
-      <br>Three.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.chartjs.org/media/logo-title.svg" width="65" height="65" alt="Chart.js" />
-      <br>Chart.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-  <img src="https://github.com/user-attachments/assets/4cb191a8-e0d8-4a32-9032-37e80f19fb7a" width="65" height="65" alt="Cursor" />
-  <br>Cursor
-</td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/Sophie618/Sophie618/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
-
-## 🌐 Connect With Me
+## 💬 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-3441606266%40qq.com-9400D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3441606266@qq.com)
-[![Website](https://img.shields.io/badge/Website-Sophie's_Wondrous_World-9400D4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.sophieswondrousworld.top/)
+[![Website](https://img.shields.io/badge/Website-Sophie's_World-9400D4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.sophieswondrousworld.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sophie618-9400D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sophie618)
 
 </div>
 
-
-
 <div align="center">
-  
-### ✨ *"Wonderful things are happening."* ✨
-
+  <br>
+  <i>"I believe that beautiful UI + Agentic Logic = The Future of Software."</i>
 </div>
-
-
-
-<details>
-<summary>💡 <b>Click to see more about me!</b></summary>
-
-<br>
-
-### 🎨 Design Philosophy
-I believe that **beautiful UI + smooth UX = wonderful experience**. Every pixel matters, every animation tells a story.
-
-### 🚀 Technical Journey
-
-**Frontend Evolution**
-- Started with traditional HTML/CSS/JavaScript
-- Mastered React's component-based architecture  
-- Discovered TailwindCSS for rapid, maintainable styling
-- Now building full-stack applications with modern tooling
-
-**Visualization Expertise**
-- Implemented force-directed graphs for relationship networks
-- Created tree diagrams and Sankey flows for data storytelling
-- Integrated Three.js for immersive 3D experiences
-
-**AI Integration**
-- Built web scraping pipelines with Python
-- Integrated LLMs for semantic search and analysis
-- Developed intelligent retrieval systems combining multiple search strategies
-
-### 💭 Fun Facts
-- 💜 I see the world in shades of neon purple (#9400D4)
-- 🎮 I build interactive web games in my free time
-- 📊 I turn boring data into beautiful, meaningful visualizations
-- 🤖 I dream of building intelligent agents that truly understand users
-- ✨ I add delicate animations to everything I create
-
-### 🎯 Current Goals
-- 📚 Deep dive into LLM architectures and prompt engineering
-- 🤝 Contribute to open-source projects
-- 🎨 Master advanced Figma techniques for UI/UX design
-- 🚀 Build a portfolio of AI-powered applications
-
-</details>
-
----
