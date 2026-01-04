@@ -13,7 +13,9 @@
 > *"I don't just write code; I build 'Second Brains' with better interfaces."*
 
 👩‍💻 **AI Product Engineer** based in Beijing. Top 5% at BIT (Xu Teli Honors Class).
+
 💜 **Design Philosophy**: Bridging the gap between **LLM Intelligence** and **Fluid UX**.
+
 🌌 **Obsession**: Exploring how **DeepSeek/OpenAI** models can drive dynamic, structured frontend interactions.
 
 ---
